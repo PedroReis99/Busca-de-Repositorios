@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background:  #0D2636;
+  color: #333;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+button{
+  cursor: pointer;
+}
